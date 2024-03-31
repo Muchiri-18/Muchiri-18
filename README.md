@@ -1,0 +1,6 @@
+-👋Hello there, I am Muchiri Mwangi currently a frontend developer looking forward to becoming a fullstack developer and later in life a software engineer. 
+-👀I am also interested in Website development, web-app development and mobile app development. 
+-🌱I am still in the journey of learn on which am currently learning react.js a library in JavaScript and other Javascript frameworks like Angular.js and Next.Js.
+-💞️I am looking Forward to collaborate with other web developers on this amazing platform share code and also contribute in helping one another.
+-📫You can reach me via email @muchiri.mwangi.100@gmail.com or a phone call 0114672193 or whatsapp me at 0739393508. 
+-⚡Fun fact about me is that when I start coding is much harder to stop
